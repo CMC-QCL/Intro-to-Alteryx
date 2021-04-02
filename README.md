@@ -3,8 +3,10 @@
 ## Windows
 Install Alteryx Designer on Windows by following the [instruction from Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product)
 
-## IOSv
-IOS users who are interested in setting up the Alteryx Designer must install virtual machine (VM) such as [Virtual Box](https://www.virtualbox.org) followed by Windows 10.  When the virtual machine is set up, then install [Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).  Steps to install Alteryx Designer are: 
+## IOS
+IOS users who are interested in setting up the Alteryx Designer must install virtual machine (VM) such as [Virtual Box](https://www.virtualbox.org) followed by Windows 10 installation.  When the Windows environment is set up, then install [Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).  
+
+Steps to install Alteryx Designer are: 
 
 1. Download [Virtual Box](https://www.virtualbox.org).  Click on Virtual Box 6.1 and select "OS X hosts" to download VirtualBox-6.1.18-142142-OSX.dmg.
 
@@ -26,8 +28,5 @@ IOS users who are interested in setting up the Alteryx Designer must install vir
    * Follow the prompts while the Windows installation is going on.
    * When asked to enter product code, click on "I don't have product code" then select "Windows 10" to continue installation.
 
-6. When Windows 10 installation is complete, download and install [Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).  Make sure that downlading and installing Alteryx take place in the Windows environment.  
-
-
- 
+6. When Windows 10 installation is complete, download and install [Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).  Make sure that downlading and installing Alteryx take place in the Windows environment.  Refer to [How to install Windows 10 on a Mac using Virtual Box video](https://youtu.be/HEL9Uw3AR9s) for more dtails.  
  
