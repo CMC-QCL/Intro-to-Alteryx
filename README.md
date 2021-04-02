@@ -1,4 +1,4 @@
-# ** How to Install Alteryx Designer **
+# How to Install Alteryx Designer 
 
 ## Windows
 Install Alteryx Designer on Windows by following the [instruction from Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).
@@ -28,5 +28,5 @@ Steps to install Alteryx Designer are:
    * Follow the prompts while the Windows installation is going on.
    * When asked to enter product code, click on "I don't have product code" then select "Windows 10" to continue installation.
 
-6. When Windows 10 installation is complete, download and install [Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).  Make sure that downlading and installing Alteryx take place in the Windows environment.  Refer to [How to install Windows 10 on a Mac using Virtual Box video](https://youtu.be/HEL9Uw3AR9s) for more dtails.  
+6. When Windows 10 installation is complete, download and install [Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).  Make sure that downlading and installing Alteryx take place in the Windows environment.  Refer to [How to install Windows 10 on a Mac using Virtual Box video](https://youtu.be/HEL9Uw3AR9s) for more details.  
  
