@@ -1,7 +1,7 @@
 # ** How to Install Alteryx Designer **
 
 ## Windows
-Install Alteryx Designer on Windows by following the [instruction from Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product)
+Install Alteryx Designer on Windows by following the [instruction from Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).
 
 ## IOS
 IOS users who are interested in setting up the Alteryx Designer must install virtual machine (VM) such as [Virtual Box](https://www.virtualbox.org) followed by Windows 10 installation.  When the Windows environment is set up, then install [Alteryx](https://help.alteryx.com/current/product-activation-and-licensing/download-and-install-product).  
